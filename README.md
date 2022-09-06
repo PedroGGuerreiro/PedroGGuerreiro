@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PedroGGuerreiro
+- 👋 Hi, I’m @Pedro Gil Guerreiro
 - 👀 I’m interested in Python, Javascript, Java, C#, MySQL
 - 🌱 I’m currently learning Python, Javascript
 - 💞️ I’m looking to collaborate on ...
